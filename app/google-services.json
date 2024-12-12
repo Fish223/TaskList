@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "823643612074",
+    "project_id": "tasklistfish1",
+    "storage_bucket": "tasklistfish1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823643612074:android:02f955fa66983fb91701d3",
+        "android_client_info": {
+          "package_name": "fish.latpaba.tasklistfish"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcvzU8BmCF5oOD9KRjWWfl2FGAvH26twM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
